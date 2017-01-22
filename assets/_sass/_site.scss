@@ -1,6 +1,6 @@
 .block-left {
-  float: left;
   width: 30%;
+  float: left;
   .content {
     z-index: 1;
     position: relative;
@@ -8,9 +8,9 @@
 }
 
 .block-right {
+  width: 70%;
   float: right;
   overflow-y: auto;
-  width: 70%;
 }
 
 .block-left,
