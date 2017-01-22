@@ -1,6 +1,6 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
+title: Lillian's Blog
+description: Personal blog about data science, biology, and video games
 url: https://liltong97.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -29,12 +29,12 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             lillianjietong@gmail.com
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github:             liltong97
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -42,7 +42,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              liltong97
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
