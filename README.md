@@ -4,9 +4,9 @@ This blog uses the Halve Jekyll template with slight variations.
 
 Changes will be automatically deployed by github. Just edit posts in '_posts/'
 
-## Preview   
+# Preview   
 ![screenshot](/images/home-image.png)
 
 
-# Credits
+## Credits
 - Halve: [Taylan Tatli](https://github.com/TaylanTatli/Halve) 
