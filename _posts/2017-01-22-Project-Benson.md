@@ -15,6 +15,7 @@ Week one at Metis hit us fast and hard. Although it was only a 4-day work week (
 The premise of the project was relatively straightforward: analyze the NYC Metropolitan Transportation Authority (MTA) [turnstile data](http://web.mta.info/developers/turnstile.html "MTA Turnstile"). 
 
 We were to come up with a fake client and scenario and act as a consulting company to help them solve their problem using the MTA turnstile data. Some project examples include:
+
 * Which MTA stations to place food trucks to increase business
 * What times and places to place ads to maximize outreach
 * Best locations for a new coffee shop targetting commuters
@@ -25,6 +26,7 @@ Our team of four decided to help out the Manhattan School of Music with getting 
 This is probably the biggest take-away from this project. The raw data will always need a little (or A LOT OF!) fixing up before it's ready for analysis and despite it being only our first week at Metis, they did not hesitate to throw at us data riddled with problems. The data were logs of the counter at every turnstile at every station for every 4 hours. The counter would increase by one for each person that entered the turnstile, but the counter never started at 0, so to determine the number of entries you had to look at the change in the counter over some block of time. There were 372 stations, 23 lines, and 4,620 turnstiles with counter data every four hours to process.
 
 Some of the main issues with the data were:
+
 * Multiple log counter entries at the same turnstile at the same time
 * Turnstiles would sometime count in reverse (decrementing instead of incrementing)
 * Turnstile counters would randomly be reset causing the counter to jump to a completely different value
