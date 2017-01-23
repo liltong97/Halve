@@ -45,12 +45,13 @@ To give the basic results, we aggregated the counter data to get daily entry num
 
 In terms of proximity to the Manhattan school of music, the most popular line to ride would be the 1 line and the best stations to hit are mapped out below:
 
-< insert map here >
+![Station-Map]({{ site.url }}/images/project_benson/map_of_stations_by_MSM.png)
 
 ### More Lines => More Entries?
 Our group also explored the validity of the intuition: stations with more lines running through them should have more people entering the station. Is this really true? The short answer is no. Although it makes sense that a station with many different lines might attract more people because they can access more places, in reality, the location and centrality of the station is probably more important than the number of lines you can access. See the scatter plot below which plots every station of the MTA in terms of the number of lines that go through it v the number of entries that station receives. We see that there is no obvious correlation between the two, but we do get lots of entries at stations with 5 and 8 lines which probably just coincidentally contain the popular stations like Grand Central, Herald Sq., etc. 
 
-< insert scatter here >
+![Line-Scatter]({{ site.url }}/images/project_benson/JAN_NUMBER_OF_LINES.png)
+
 
 
 ### Easter Egg: Q Line Extension
@@ -58,7 +59,8 @@ Something else interesting we stumbled upon while analyzing the data was the eff
 
 Just to highlight the jump in ridership, check out these bar plots showing daily entries to the Q line in December 2016 compared to January 2017. We see a weekday daily increase of almost 50,000 entries per day and a whopping doubling of the entries on Saturday (but whether this was an anomoly or not merits further investigation). 
 
-< insert bar graph here >
+![Q-Line-Extension]({{ site.url }}/images/project_benson/Q_line_extension.png)
+
 
 ### Concluding thoughts
 
