@@ -1,19 +1,4 @@
 - title: Project Benson
   url: http://taylantatli.me/Moon
   image: https://github.com/liltong97/liltong97.github.io/blob/master/images/project_benson/map_of_stations_by_MSM.png?raw=true
-  completed: false
-
-- title: Project Benson
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-  completed: true
-
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
-  completed: true
-
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
   completed: true
