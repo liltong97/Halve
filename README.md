@@ -10,5 +10,3 @@ Changes will be automatically deployed by github. Just edit posts in '_posts/'
 
 # Credits
 - Halve: [Taylan Tatli](https://github.com/TaylanTatli/Halve) 
-- Images: [Unsplash](https://unsplash.com/) and [Lorem Pixel](http://lorempixel.com) and yours truly
-
