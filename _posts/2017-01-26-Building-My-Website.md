@@ -34,11 +34,11 @@ Well, I clicked the shield and said "RUN THOSE SCRIPTS ANYWAY." And voila! The w
 ### Where did my images go?
 I had two major problems when it came to the images and photos used on this website. 
 
-##Photos were loading slowly
+## Photos were loading slowly
 
 I was pretty excited to finally have a use for some of my old photos that I had taken from the Galapagos. So, I picked my a few of my favorites to use as the cover photo for my home page, posts page, and the blogs pages. However, when the website was loading up, it look a very long time to render the images. The issue was that the image files I was using were way too large (~10MB). Intuitively, if you want the photos to load faster, you'll need to reduce the quality and size of the image. I was able to manage this by converting them from .jpeg -> .gif -> .jpeg. You can also use basic photo processing software (like MS paint) to shrink the physical size or number of pixels in the photo, which will help the file size a lot. Yes, I know that my images are still loading relatively slowly, but trust me, it's a lot faster than what it was before!! (...Ok, ok, I'll work on it soon!)
 
-##Some images weren't appearing at all
+## Some images weren't appearing at all
 
 Some of my graphs weren't appearing in my Project Benson post at all. It had taken me a while to realize that because the Mac OS is case sensitive, it perceives `.png` and `.PNG` as two completely different file extensions. I had pulled the graphs from a Windows computer which willy-nilly assigns the file extension to be `.PNG` when using the screenshot snipping tool. Now, when trying to use Jekyll (which locally builds the website!!), it doesn't realize that `.PNG` is an image file, thus being unable to display the graph. Definitely one of the more sillier bugs that I've come across, but one that I think deserves more attention because it seems hard to catch if you don't know what you're looking for! 
 
