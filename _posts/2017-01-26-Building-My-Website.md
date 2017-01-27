@@ -29,7 +29,7 @@ Not exactly what I was hoping for, so I franctically looked through the repo try
 
 >"This page is trying to load scripts from unauthenticated sources"
 
-Well, I clicked the shield and said "RUN THOSE SCRIPTS ANYWAY." And voila! The website was looking perfect. So, how do I make sure that my scripts appear to be safe? Apparently it just requires the url in the `_config.yml` file to be set to `https://liltong97.github.com` as opposed to just `http://liltong97.github.com`. Spoiler alert: the s stands for safe.... 
+Well, I clicked the shield and said "RUN THOSE SCRIPTS ANYWAY." And voila! The website was looking perfect. So, how do I make sure that my scripts appear to be safe? Apparently it just requires the url in the `_config.yml` file to be set to `https://liltong97.github.com` as opposed to just `http://liltong97.github.com`. Spoiler alert: the "s" stands for "secure".... 
 
 ## Where did my images go?
 I had two major problems when it came to the images and photos used on this website. 
