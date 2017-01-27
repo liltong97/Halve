@@ -14,7 +14,7 @@ I used Jekyll to build this website. The beauty of jekyll is that, when I built 
 
 Now, after reading a bit about it, this is my basic understanding of Jekyll:
 
-* Jekyll expects a particular website directory that contains folders like `_posts`, `_layouts`, and `_includes.` Don't alter the structure of the directory drastically if you want Jekyll to be able to parse your content correctly. 
+* Jekyll expects a particular website directory that contains folders like `_posts`, `_layouts`, and `_includes.` Don't drastically alter the structure of the directory if you want Jekyll to be able to parse your content correctly. 
 * Jekyll is used to build *static websites*. This means it uses your local computer to create the html, css, etc. necessary to build your website and then uploads it to wherever you're hosting it. This makes it extremely light-weight and efficient. Other blogging sites like WordPress are *dynamic websites* and have to do a lot of the processing on the fly using their own servers, which sometimes makes them slow and clunky. 
   * Think of a static website like a picture of a drawing that you did sometime last week. It's really fast and easy to whip out your phone/camera to show someone the work you did. A dynamic website would be you doing a drawing demonstration everytime someone asked you to show them your work. 
 * Jekyll is written in Ruby by GitHub's cofounder, Tom Preston-Werner. This is why GitHub Pages, which is what I'm using to host my website, is run on Jekyll. Free hosting on Github Pages? Awesome, pretty Jekyll templates readily available? SIGN ME UP. 
