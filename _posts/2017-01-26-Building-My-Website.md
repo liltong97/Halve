@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This website: Pitfalls of a newbie"
+title: "This website: Pitfalls of a Newbie"
 categories:
   - Personal
 tags:
