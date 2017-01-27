@@ -10,7 +10,7 @@ tags:
 Building this website was really rewarding, but I wanted to briefly go over some of the mistakes I made and troubles I ran into. Maybe it'll be helpful for those who are new to this (like me!!). 
 
 ## (Dr.) Jekyll and (Mr.) Github Pages
-I used Jekyll to build this website. The beauty of jekyll is that, when I built this website, I was able to use it without really understanding what it was doing. It was pretty much plug and play (by which I mean fork and push) for the [Halves template](https://github.com/TaylanTatli/Halve). 
+I used Jekyll to build this website. The beauty of jekyll is that, when I built this website, I was able to use it without really understanding what it was doing. It was pretty much plug and play (by which I mean fork and push) for the [Halve template](https://github.com/TaylanTatli/Halve). 
 
 Now, after reading a bit about it, this is my basic understanding of Jekyll:
 
