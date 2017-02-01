@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Overwatch: Amazing for new FPS players"
+title: "Overwatch: Amazing for New FPS Players"
 categories:
   - Personal
 tags:
@@ -19,18 +19,19 @@ FPS has been a genre that has been particularly intimidating for me to get into 
 
 ## You die slowly
 When I think of FPS, I think about "420 NO SCOPE BOOM HEADSHOT" 1-shot instakills. Although 1-shot kills exist in Overwatch, as a new player, you will often die in a slower manner, which gives you a better chance to figure out how you're dying and a better chance to react and escape. Cause of death is also a little more obvious in Overwatch. It'll go something along the lines of...
-> "SOMEONE IS SHOOTING ME, FIND COVER QUICKLY" 
+
+> "SOMEONE IS SHOOTING ME, FIND COVER QUICKLY. " 
 
 or...
 
-> "THERE IS THIS BIG MONKEY ZAPPING ME, PLEASE HELP." 
+> "THERE IS THIS BIG MONKEY ZAPPING ME, PLEASE HELP. " 
 
 And if you really don't know how you died, there is always the kill cam that shows you what dealt the final blow, which is a huge aid for newer players learning about what other characters do and how to improve survivability. 
 
 ## You respawn and can switch characters
-Just in case you do die, you get to respawn and try again in just a few seconds! This gives you so many opportunities to learn about your mistakes and get right back in the action ASAP. Dying and respawning also gives you the chance to switch characters. I think this greatly helps new players explore the range of characters that are available to them and to learn what they all do. Because everyone has the opportunity to switch characters at many points in the game, a new player can be exposed to the majority of characters in a short time span. You don't need to invest a ridiculous amount of time just get a basic understanding of what characters do.
+Just in case you do die, you get to respawn and try again in just a few seconds! This gives you so many opportunities to learn about your mistakes and get right back in the action ASAP. Dying and respawning also gives you the chance to switch characters. I think this greatly helps new players explore the range of characters that are available to them and to learn what they all do. Because everyone has the opportunity to switch characters at many points in the game, a new player can be exposed to the majority of characters in a short time span. You don't need to invest a ridiculous amount of time just to get a basic understanding of what characters do.
 
- Switching characters also minimizes the risk of losing the game before any of the fighting actually starts just because your team's characters are just bad picks against the enemy team's characters. This is more of a concern in MOBAs like League of Legends or DOTA2 (where you are stuck with the same hero for the whole ~45min game), but can still be a source of anguish in Overwatch, which is why it's great the designers allow players this flexibility. 
+ Giving the ability to switch characters also minimizes the risk of losing the game before any of the fighting actually starts just because your team's characters are just bad picks against the enemy team's characters. This is more of a concern in MOBAs like League of Legends or DOTA2 (where you are stuck with the same hero for the whole ~45min game), but can still be a source of anguish in Overwatch, which is why it's great the designers allow players this flexibility. 
 
 ## Character variety!
 I think the character variety really helps with players who are new to FPS. There are characters that don't require excellent aim to be effective (e.g. Reinhardt). There are characters that don't require extensive knowledge of the terrain to be mobile (e.g. Pharrah). Because of the large character pool, you can choose one or two things to work on and find a character that will best fit your needs. You also don't ever have to be amazing at aiming to be great at the game. You could have great game sense (about when to attack and defend) and it will carry you far (given your team listens...) which is great for first-time FPS players coming from MOBAs or other game genres. 
