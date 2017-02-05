@@ -18,7 +18,7 @@ We were to come up with a fake client and scenario and act as a consulting compa
 
 * Which MTA stations to place food trucks to increase business
 * What times and places to place ads to maximize outreach
-* Best locations for a new coffee shop targetting commuters
+* Best locations for a new coffee shop targeting commuters
 
 Our team of four decided to help out the Manhattan School of Music with getting more exposure for their performing students. There are two main types of performing students at the school: dancers and musicians. Dancers (who perform in the carts and trams) are interested in finding the busiest MTA lines to perform on throughout the day. Musicians (who perform at specific stations) are interested in finding the busiest MTA stations to set-up in.
 
@@ -59,7 +59,7 @@ Our group also explored the validity of the intuition: stations with more lines 
 ### Easter Egg: Q Line Extension
 Something else interesting we stumbled upon while analyzing the data was the effect of the 2nd Ave. extension onto the Q line which just opened up on 1/1/2017. We were comparing data from Jan. 7-13, 2017 and Dec. 3-9, 2016 to ensure that our weekend and weekday results were consistent across different weeks. Almost all our station and line popularity results were consistent with the exception of the Q line. In December, it had ranked at the 18th most popular line on weekends, but in January, it jumped up to being the 3rd most popular line. 
 
-Just to highlight the jump in ridership, check out these bar plots showing daily entries to the Q line in December 2016 compared to January 2017. We see a weekday daily increase of almost 50,000 entries per day and a whopping doubling of the entries on Saturday (but whether this was an anomoly or not merits further investigation). 
+Just to highlight the jump in ridership, check out these bar plots showing daily entries to the Q line in December 2016 compared to January 2017. We see a weekday daily increase of almost 50,000 entries per day and a whopping doubling of the entries on Saturday (but whether this was an anomaly or not merits further investigation). 
 
 ![Q-Line-Extension]({{ site.url }}/images/project_benson/Q_line_extension.png)
 
