@@ -14,7 +14,7 @@ The second project we did at Metis focused on scraping our own data from the web
 ### Sequel Movies
 For our second project (which Metis calls "Project Luther"), we were given the option to analyze movie data, sports data, or wine data. Since my total lack of understanding of sports and wine might be a complete detriment when it comes to figuring out what factors and features are important for my model, I decided to stick with good ole movies. 
 
-My project goal: **Predict the IMDB rating of the sequel movie in a franchise**
+>>My project goal: **Predict the IMDB rating of the sequel movie in a franchise**
 
 I thought it would be interesting to see if we could predict how well a sequel was rated given how well the original movie did and some other factors about the production of the sequel movie. Note that I only considered Movie 1 and Movie 2 of a franchise (e.g. for Harry Potter, I only looked at Sorcerer's Stone and Chamber of Secrets). This is largely because there might be a different relationship between Movie 1 and Movie 2 than Movie 2 and Movie 3 and etc. By looking at the the first two movies of a franchise, all my movies will be on the same playing field. 
 
@@ -56,12 +56,19 @@ I ran the same models and found again that gradient boosting gave me the least m
 
 The model ended up having a r^2 of about 0.39 which isn't fantastic, but still better than anything else I had come up with so far. It was still having some trouble accurately predicting low scoring sequel movies, but looking at the distribution of the sequel movie IMDB ratings it became somewhat apparent:
 
+{% capture fig_img %}
 ![Distribution of y]({{ site.url }}/images/project_luther/y-hist-both.png)
+{% endcapture %}
 
-We see that there are very few examples of low sequel IMDB ratings in the first place. We can't really expect a model to "know" what a low rated sequel movie would look like if it has only ever "seen" 3 or 4 examples. A very good lesson to learn. 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Pink is the distribution of sequel ratings from boxofficemojo.com. Blue is the distribution from thenumbers.com.</figcaption>
+</figure>
+
+ We see that there are very few examples of low sequel IMDB ratings in the first place. We can't really expect a model to "know" what a low rated sequel movie would look like if it has only ever "seen" 3 or 4 examples. A very good lesson to learn. 
 
 ### The World is Noisy
-The conclusion of a lot of people's projects this time was something along the lines of "the model didn't perform that well." And although it probably felt kind of depressing for everyone, it brings to light a very important point about this chaotic universe we are trying to make sense of: the world is noisy. Sometimes the thing you are trying to predict has a really high signal-to-noise ratio and it's really hard to pick out the signal with the features or variables you are trying to use. Not everything is clear cut and data science isn't about just applying models to every problem that arises, but understanding **which** problems have a chance of being accurately modeled. I think that is a skill that will require a ton of experience to develop, but one that is crucial for ultimately being successful in the field. 
+The conclusion of a lot of people's projects this time was something along the lines of "the model didn't perform that well." And although it probably felt kind of depressing for everyone, it brings to light a very important point about this chaotic universe we are trying to make sense of: the world is noisy. Sometimes the thing you are trying to predict has a really high signal-to-noise ratio and it's really hard to pick out the signal with the features or variables you are trying to use. Not everything is clear cut and data science isn't about just applying models to every problem that arises, but understanding *which* problems have a chance of being accurately modeled. I think that is a skill that will require a ton of experience to develop, but one that is crucial for ultimately being successful in the field. 
 
 Thanks for reading and if you want more information on my project and some of the details of how each of the models did, check out my "Projects" page which can be accessed via the icon in the top right and has a link to the powerpoint I presented to the class. Also feel free to reach out to me if you have any questions!   
 
