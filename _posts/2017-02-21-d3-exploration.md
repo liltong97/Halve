@@ -13,10 +13,10 @@ For those of you interested in boot camps and switching fields, here's a bit abo
 ### Holy
 Testing d3:
 
-<script src="http://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.21.0/d3-legend.js"></script>
-<script src="http://d3js.org/queue.v1.min.js"></script>
-<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script src="https://d3js.org/queue.v1.min.js"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
 <script src="https://d3js.org/d3-geo-projection.v1.min.js"></script>
 <script src="{{ site.url }}/assets/js/d3-tip.js"></script>
 <script src="{{ site.url }}/assets/js/jenks.js"></script>
