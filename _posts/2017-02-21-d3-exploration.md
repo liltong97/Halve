@@ -17,7 +17,7 @@ I'm so amazed by the graphics produced by d3. Here's my first attempt...
 ### What's an IUCN Status?
 The International Union for Conservation of Nature (IUCN) is the organization that determines which species are considered "endangered" or not. In fact, there are 7 categories an animal can be placed in (ranging from least concern -> extinct). 
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Status_iucn3.1.svg/640px-Status_iucn3.1.svg.png" width ='80%' alt="IUCN categories" ></center>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Status_iucn3.1.svg/500px-Status_iucn3.1.svg.png" width ='80%' alt="IUCN categories" ></center>
 
 ### Where is this data from?
 For my next Metis Project I am building a model to predict whether a species has changed in its IUCN status since the last time the species was surveyed. I will also be exploring if the model can predict whether or not the species had improved for the better or worse. 
