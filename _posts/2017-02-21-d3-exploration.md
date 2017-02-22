@@ -12,12 +12,12 @@ I'm so amazed by the graphics produced by d3. Here's my first attempt...
 
 ### Desserts First
 #### Mean Changes in IUCN Status By Country:
-<iframe src="https://cdn.rawgit.com/liltong97/1d5fbba13346bfba0d57733941731bc0/raw/5bdb1ffe8298a318b390cc3071312178d2adcb3e/index.html" width="100%" height ="750px" marginwidth="0" marginheight="0" scrolling="no" class="d3_map"></iframe>
+<iframe src="https://cdn.rawgit.com/liltong97/1d5fbba13346bfba0d57733941731bc0/raw/5bdb1ffe8298a318b390cc3071312178d2adcb3e/index.html" width="100%" height ="550px" marginwidth="0" marginheight="0" scrolling="no" class="d3_map"></iframe>
 
 ### What's an IUCN Status?
 The International Union for Conservation of Nature (IUCN) is the organization that determines which species are considered "endangered" or not. In fact, there are 7 categories an animal can be placed in (ranging from least concern -> extinct). 
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Status_iucn3.1.svg" alt="IUCN categories" width = "70%"></center>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Status_iucn3.1.svg" alt="IUCN categories" width = "90%"></center>
 
 ### What is this data from?
 For my next Metis Project I am building a model to predict whether a species has changed in its IUCN status since the last time the species was surveyed. I will also be exploring if the model can predict whether or not the species had improved for the better or worse. 
