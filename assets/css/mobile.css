@@ -1,5 +1,5 @@
 
-@media screen and (max_width:1200px){
+@media screen and (max-width:1200px){
   .legendLinear text {
     font-size: 0.05em;
   }
