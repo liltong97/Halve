@@ -1,0 +1,6 @@
+
+@media screen and (max_width:400px){
+  .legendLinear text {
+    font-size: 0.3em;
+  }
+}
