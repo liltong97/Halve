@@ -12,7 +12,7 @@ tags:
 The third project at Metis is one on classification called Project McNulty.
 
 ### Project Goal
-We're all on our own now! Find your own data and come up with your own project. I wanted to use climate and weather data for this project and one article led to another before I found myself reading about how local climate changes can cause local extinctions or migrations of animals. I thought it would be interesting to see if I could build a binary classifier model using environmental factors to predict whether or not a species had changed in its IUCN endangerment status (see [last post]({{ site.url }}/_posts/2017-02-21-d3-exploration.md) for an explanation of what that is). It would also be cool if the model could predict whether or not the species had changed for the better or worse. 
+We're all on our own now! Find your own data and come up with your own project. I wanted to use climate and weather data for this project and one article led to another before I found myself reading about how local climate changes can cause local extinctions or migrations of animals. I thought it would be interesting to see if I could build a binary classifier model using environmental factors to predict whether or not a species had changed in its IUCN endangerment status (see [last post]({{ site.url }}/d3-exploration/) for an explanation of what that is). It would also be cool if the model could predict whether or not the species had changed for the better or worse. 
 
 ### All the Sources and All the Features!
 I combined data from the following four sources:
