@@ -42,11 +42,11 @@ The precision recall curve for my model to predict any change in IUCN status is 
 The average precision (across all thresholds) is about 55%. Depending on what you are trying to achieve, you can choose which threshold would be optimal. It's always a trade-off between precision and recall because with high precision, your model is only predicting the very obvious cases and will let a lot of cases slide though, leading to very low recall. Alternatively, with high recall your model is being too sensitive and predicting every species to have changed (which will catch them all but have a low correctness, thus low precision). 
 
 The precision recall curve for my model to predict a change for the better (improving in IUCN status) is below:
-![PR curve for better change]({{ site.url }}/images/project_mcnulty/prec-rec-betterchange)
+![PR curve for better change]({{ site.url }}/images/project_mcnulty/prec-rec-betterchange.png)
 Now, for the species that improved in their status, we are probably interested in picking a threshold that has a low recall but a high precision. This is because, we're not interesting in identifying all species that have improved, but it might be good to find a few key examples to see what's improved in their situation to help other programs. Thus, it's important to be able to trust your model when it says a species had had a positive change (implying high precision). 
 
 However, for the model to predict a worse change (becoming more endangered):
-![PR curve for worse change]({{ site.url }}/images/project_mcnulty/prec-rec-worsechange)
+![PR curve for worse change]({{ site.url }}/images/project_mcnulty/prec-rec-worsechange.png)
 We would be interested in picking a threshold with a high recall but low precision. With species that are becoming more endangered, we want to be able to identify all of them, even if it means we have to sort through some extra cases. So, it's okay if our model shoots off a lot of false positive, as long as in the end we can catch them all! 
 
 ### Conclusions
