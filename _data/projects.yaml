@@ -4,11 +4,16 @@
   completed: true
   
 - title: Project Luther - Predicting Sequel Ratings
-  url: https://docs.google.com/presentation/d/15FjKU8FdbAiMQY7oKRPI4U_TH2U43RBOOnETpb6UGlw/edit?usp=sharing
+  url: https://github.com/liltong97/IMDB_sequel_regressor
   image: https://github.com/liltong97/liltong97.github.io/blob/master/images/project_luther/ypred_gb_numbers.png?raw=true
   completed: true
     
 - title: Change in Endangerment Status
-  url: https://docs.google.com/presentation/d/165myQWTEDt49Ne_EubostfLmy7ZOJqUL3yvpClnp9as/edit?usp=sharing
+  url: https://github.com/liltong97/EndangermentStatusChange
   image: https://github.com/liltong97/liltong97.github.io/blob/master/images/project_mcnulty/prec-rec-anychange.png?raw=true
+  completed: true
+  
+- title: Job Posting Recommender 
+  url: https://docs.google.com/presentation/d/1gna2_PzA5_gJoBIw0_6NzHwrwn6uPENcHiSC_C-ogv0/edit?usp=sharing
+  image: https://s3.amazonaws.com/poly-screenshots.angel.co/Project/9e/491055/da6b36be0b163f8294347d8a03c192f0-original.png
   completed: true
