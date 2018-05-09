@@ -28,11 +28,14 @@ Also, if any of that was unclear, they explain it on their [homepage](http://blo
 
 
 ### Getting it onto a website
-So I also haven't gotten this completely solved, because I'm having issues with getting my d3 to display properly on mobile. But, the initial steps that I had to do to get it on my website, was to serve my gist up using [rawgit.com](http://rawgit.com/). And then, when you have your new served-up link, you can put it in an iframe on the website you're hoping to display it on. Just as an example, this is what I have for my d3 post:
+So I also haven't gotten this completely solved, because I'm having issues with getting my d3 to display properly on mobile. But, the initial steps that I had to do to get it on my website, was to serve my gist up using [rawgit.com](http://rawgit.com/). And then, when you have your new served-up link, you can put it in an iframe on the website you're hoping to display it on. Just as an example, this is what I have for my d3 post to have it loaded on this page:
 
 ```
 <iframe src="https://rawgit.com/liltong97/1d5fbba13346bfba0d57733941731bc0/raw/413fd92c0b9e1d8ad82c328a3c12a703f7767fd1/index.html" width="100%" height ="400px" marginwidth="0" marginheight="0" scrolling="no" class="d3_map"></iframe>
 ```
+
+And it looks like:
+<iframe src="https://rawgit.com/liltong97/1d5fbba13346bfba0d57733941731bc0/raw/413fd92c0b9e1d8ad82c328a3c12a703f7767fd1/index.html" width="100%" height ="400px" marginwidth="0" marginheight="0" scrolling="no" class="d3_map"></iframe>
 
 Something extra tricky, however, is that if your d3 visualization uses packages/scripts that are files (as opposed to links), then you have to host those files up on separate rawgits and make sure that your d3 rawgit references the script rawgits. Or else, it won't have all the packages needed to run the visualization properly (FYI, that took forever for me to figure out....).
 
